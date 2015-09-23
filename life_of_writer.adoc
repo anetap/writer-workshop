@@ -5,45 +5,41 @@ September 2015
 
 This document summarizes what the Red Hat Writers' Workshop attendees have learned about writing technical documentation.
 
-== What does a technical writer do? [student's name]
+== What does a technical writer do? [Michal]
 . Describe the job of a technical writer. Use some markup, for example, highlight a word or two as http://asciidoc.org/asciidoc.css-embedded.html#X51[strong text].
 . Think of a good title for this section.
 
-== What is the documentation process? [student's name]
+== What is the documentation process? [Kamila]
 . Describe what we mean by "documentation process". Provide a general introduction. Use some markup, for example, http://asciidoc.org/asciidoc.css-embedded.html#_bulleted_lists[bulleted lists].
 . Think of a good title for this section.
 
-=== Communication with SMEs [student's name]
+=== Communication with SMEs [Max]
 . Explain why it is necessary to communicate with SMEs. Explain what SME stands for. Use some markup, for example, highlight "subject matter expert" using http://asciidoc.org/asciidoc.css-embedded.html#X51[emphasized text].
 . Think of a good title for this section.
 
-=== Understanding the audience [student's name]
+=== Understanding the audience [David]
 . Explain why it is necessary to optimize a technical text for the intended audience. Use some markup, for example, highlight a word or two as http://asciidoc.org/asciidoc.css-embedded.html#X51[strong text].
 . Think of a good title for this section.
 
-=== What obstacles can a technical writer face in the documentation process? [student's name]
-. Describe one of the problems a technical writer has to overcome in the documentation process. Use some markup, for example, highlight a word or two as http://asciidoc.org/asciidoc.css-embedded.html#X51[strong text].
-. Think of a good title for this section.
-
-== What is technical English? [student's name]
+== What is technical English? [Markéta]
 . Explain what technical English is. Use some markup, for example, highlight a word or two as http://asciidoc.org/asciidoc.css-embedded.html#X51[strong text].
 . Think of a good title for this section.
 
-=== Why is technical English used in technical documents? [student's name]
+=== Why is technical English used in technical documents? [Jakub]
 . Explain the purpose of using technical English in technical docs. Use some markup, for example, highlight a word or two as http://asciidoc.org/asciidoc.css-embedded.html#X51[strong text].
 . Think of a good title for this section.
 
-=== What can happen when a technical text does not follow the rules of technical English? [student's name]
+=== What can happen when a technical text does not follow the rules of technical English? [Daniela]
 . Describe what problems can the reader face if a technical writer fails to write in technical English. Use some markup, for example, highlight a word or two as http://asciidoc.org/asciidoc.css-embedded.html#X51[strong text].
 . Think of a good title for this section.
 
-=== Example [student's name]
+=== Example [Běla]
 . Add an example of non-technical and technical English. Use some markup, for example, http://asciidoc.org/asciidoc.css-embedded.html#X48[example blocks].
 . Think of a good title for the section.
 
 == Tools for Technical Writing
 
-=== Text Editors [student's name]
+=== Text Editors [Sandra]
 . Define what a text editor is and name a few examples. Use some markup, for example, http://asciidoc.org/asciidoc.css-embedded.html#_bulleted_lists[bulleted lists].
 
 === Markup Languages [student's name]
